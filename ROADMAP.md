@@ -50,7 +50,7 @@ GAINX is a minimalist yet advanced gain-staging plugin, designed to give audio p
 - [ ] Custom JUCE look-and-feel implementation
 - [ ] Responsive, calibrated animated VU meter
 - [ ] Parameter-specific tooltips and precise reset controls
-- [ ] Preparation for future modulation system (drag-and-assign knob functionality)
+- [ ] Preparation for future changes.
 
 ---
 
