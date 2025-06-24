@@ -50,7 +50,7 @@ See the full [ROADMAP.md](./ROADMAP.md) for feature milestones and progress trac
 
 ## License
 
-This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**.
+This project is licensed under the **Affero General Public License 3.0 (APGL3.0)**.
 
 You may **view, fork, and contribute** to the source code for **non-commercial and non-production** purposes only.
 
