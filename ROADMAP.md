@@ -1,7 +1,7 @@
 # GAINX Development Roadmap
 
 GAINX – Modular Gain Utility Plugin | JUCE, C++  
-Licensed under BUSL-1.1 (non-commercial use only)
+Licensed under AGPL 3.0
 
 ---
 
