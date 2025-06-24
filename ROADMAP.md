@@ -22,7 +22,7 @@ GAINX is a minimalist yet advanced gain-staging plugin, designed to give audio p
 ---
 
 ### Phase 2 – Basic Plugin Implementation (v0.1.0)
-- [ ] JUCE project initialized (Projucer or CMake)
+- [x] JUCE project initialized (Projucer or CMake)
 - [ ] Basic gain processing functionality (input/output gain control)
 - [ ] Functional gain slider UI component
 - [ ] Minimal, scalable graphical user interface (GUI)
