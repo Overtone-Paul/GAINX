@@ -42,6 +42,11 @@ Overview
 - **Stereo Width Display**: Visual-only stereo spread indicator
 
 
+## Roadmap
+
+See the full [ROADMAP.md](./ROADMAP.md) for feature milestones and progress tracking.
+
+
 
 ## License
 
