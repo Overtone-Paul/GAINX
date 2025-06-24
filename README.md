@@ -41,3 +41,16 @@ Overview
 - **Phase Flip**: Flip L/R/Both
 - **Stereo Width Display**: Visual-only stereo spread indicator
 
+
+
+## License
+
+This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**.
+
+You may **view, fork, and contribute** to the source code for **non-commercial and non-production** purposes only.
+
+**Commercial/production use is strictly prohibited** unless a commercial license is obtained from the author.
+
+A future open-source license may be granted at the Licensor’s discretion, but no specific timeline is guaranteed.
+
+See the [LICENSE](./LICENSE) file for full legal terms.
